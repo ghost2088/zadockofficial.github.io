@@ -310,6 +310,7 @@
 blockquote{
     font-size: 16px;
     line-height: 30px;
+    color: white;
 }
 .fa-quote-left::before{
    font-size: 50px;
