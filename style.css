@@ -423,4 +423,10 @@ blockquote{
     line-height: 30px;
     font-style: arial;
 }
- 
+.hr{
+    margin-top: 10px;
+    background: #ccc;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px; 
+}
