@@ -423,6 +423,14 @@ blockquote{
     line-height: 30px;
     font-style: arial;
 }
+.web{
+    display: inline-flex;
+    text-align: center;
+    margin: 3px;
+}
+.web:hover{
+    cursor: pointer;
+}
 .hr{
     margin-top: 10px;
     background: #ccc;
