@@ -426,10 +426,12 @@ blockquote{
 .web{
     display: inline-flex;
     text-align: center;
-    margin: 3px;
+    margin: 4px;
+    background: #fff;
 }
 .web:hover{
     cursor: pointer;
+    border-color: #fff;
 }
 .hr{
     margin-top: 10px;
